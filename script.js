@@ -1,2 +1,2 @@
 'use strict';
-const       = document
+const       = document.querySelector('');
